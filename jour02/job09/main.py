@@ -14,5 +14,6 @@ def triangle(a, b, c):
         print("Le triangle est quelconque.")
 
 triangle(3, 4, 5)
+triangle(6, 8, 8)
 
 
